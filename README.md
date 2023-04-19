@@ -1,2 +1,2 @@
-# python-boilerplate
-Python code example and boiler plate for different use cases
+# machine-learning-boilerplate
+ Boiler plate code for ML projects
